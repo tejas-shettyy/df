@@ -1,0 +1,9 @@
+{
+	"name": "DF-Dest",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "75937360-f974-4ab2-8ec6-604695ae6558",
+		"tenantId": "f961e7ea-95c2-4f87-beaa-f8b306ecae61"
+	}
+}
